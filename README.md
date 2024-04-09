@@ -1,5 +1,9 @@
 # gotokenizer
 
+[![GitHub release badge](https://badgen.net/github/release/StevenCyb/gotokenizer/latest?label=Latest&logo=GitHub)](https://github.com/StevenCyb/gotokenizer/releases/latest)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/StevenCyb/gotokenizer/ci-test.yml?label=Tests&logo=GitHub)
+![GitHub](https://img.shields.io/github/license/StevenCyb/gotokenizer)
+
 This library provide a basic regex based tokenizer.
 
 ## Installation
