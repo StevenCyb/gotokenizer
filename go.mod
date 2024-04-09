@@ -1,4 +1,4 @@
-module gotokenizer
+module github.com/StevenCyb/gotokenizer
 
 go 1.22.2
 
